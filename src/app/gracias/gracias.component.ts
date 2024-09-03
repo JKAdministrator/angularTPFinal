@@ -7,7 +7,7 @@ import { Router } from '@angular/router';
   imports: [],
   template: `
     <div class="container">
-      <p>Gracias por contactarse con nosotros!.</p>
+      <p>Gracias por intentar contactarse con nosotros!.</p>
       <p>
         Si aún no realizó un pago, nuestro equipo de soporte se pondra en
         contacto con usted dentro de las proximas 24 hs.
