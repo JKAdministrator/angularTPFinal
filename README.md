@@ -4,7 +4,7 @@ Generado con [Angular CLI](https://github.com/angular/angular-cli) version 18.2.
 
 ## Para probarlo
 
-Copiarse el repositorio, isntalar dependencias y ejecutar ng serve
+Copiarse el repositorio, instalar dependencias y ejecutar ng serve
 
 ## Contenido
 
