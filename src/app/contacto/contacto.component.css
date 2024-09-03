@@ -1,0 +1,73 @@
+/* contact-form.component.css */
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: calc(100% - 1.6rem);
+  padding: 0.8rem;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+
+.error {
+  color: #d9534f;
+  font-size: 0.875rem;
+  margin-top: 5px;
+}
+
+.btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  margin-left: auto;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+.btn[disabled] {
+  background-color: grey !important;
+  cursor: not-allowed !important;
+}
+
+form {
+  margin-top: 1rem;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+}
+fieldset {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  width: calc(100% - 2rem);
+  padding: 1rem;
+  gap: 3rem;
+}
+form > fieldset > div {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.alerta {
+  color: red;
+}

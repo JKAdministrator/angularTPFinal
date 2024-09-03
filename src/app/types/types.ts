@@ -1,6 +1,7 @@
-export interface hero {
-  id?: string;
-  name: string;
-  real_name: string;
-  place_of_birth: string;
+export interface producto {
+  codigo?: string;
+  nombre: string;
+  descripcion: string;
+  imagen: String;
+  precio: string;
 }

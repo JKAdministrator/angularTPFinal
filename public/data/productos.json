@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Deportivo Apple Pinky",
+    "descripcion": "Conjunto deportivo para mujer, color rosa. Designed by Apple California, made in Avellaneda Buenos Aires",
+    "codigo": "TXL001",
+    "imagen": "conjuntoDeportivoMujerRosa.webp",
+    "precio": 299100.95
+  },
+  {
+    "nombre": "Cargo Basic",
+    "descripcion": "Cargo 80% polyester y quizá 20% algodon, quien sabe. Seguramente importado de China.",
+    "codigo": "TXL002",
+    "imagen": "pantalonCargoHombreCrema.webp",
+    "precio": 899.99
+  },
+  {
+    "nombre": "Remera XS Charly Mujer",
+    "descripcion": "Remera básica estampada, no lavar con agua fria porque se achica.",
+    "codigo": "TXL003",
+    "imagen": "remeraMujerCharlyGarcia.jpg",
+    "precio": 4199.0
+  },
+  {
+    "nombre": "Traje basico",
+    "descripcion": "Traje de 3 piezas para hombre, importado de italia, materiales de primerisima calidad, confeccionado a mano por sastres de renombre internacional, precio imbatible. Sin stock.",
+    "imagen": "trajeHombreNegro.webp",
+    "codigo": "TXL004",
+    "precio": 99.99
+  }
+]

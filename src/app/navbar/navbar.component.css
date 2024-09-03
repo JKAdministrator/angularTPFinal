@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: var(--main-bg-color); /* Fondo gris claro */
+  padding: 10px;
+  border-bottom: 1px solid #e7e7e7; /* Línea de separación */
+}
+.navbar > div {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+  pointer-events: all;
+  cursor: pointer;
+}
+
+.logo {
+  width: 40px; /* Ajusta el tamaño de la imagen según tus necesidades */
+  height: 40px;
+  margin-right: 10px;
+  pointer-events: none;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  pointer-events: none;
+}
